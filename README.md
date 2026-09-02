@@ -8,3 +8,4 @@ Completed notebooks include:
 
 * mod01_box_model.ipynb
 
+For the semester project I am investigating (BLANK) Model 
